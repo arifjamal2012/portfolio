@@ -24,6 +24,7 @@
 .idea/
 .idea/*
 .idea/*/*/*
+README.md
 
 npm-debug.log*
 yarn-debug.log*
