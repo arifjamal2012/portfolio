@@ -1,4 +1,4 @@
-# React Portfolio, multiple pages with dark mode
+<!-- # React Portfolio, multiple pages with dark mode
 
 ## a portfolio for developers
 
@@ -67,7 +67,7 @@
 
 - add to the `img` folder up to 5 screenshots of projects you have completed to be added to your portfolio page. this
   can either be a regular screenshot, or you can create mockups like what are on the default template. I created these
-  in Canva -- At the bottom of this readme is instructions to create them yourself! 
+  in Canva -- At the bottom of this readme is instructions to create them yourself!
 
 example: ![](http://localhost:3000/static/media/mock5.7a3de7b6c7393f774688.png)
 
@@ -152,18 +152,18 @@ You must have a Canva account for this to work! If you don't want to create one,
 
 Now, then!
 
-The easiest way is to click on [this link](https://www.canva.com/design/DAEi4hwD8KM/YF6znvnVBGeR1p_KujaTwA/edit?utm_content=DAEi4hwD8KM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and edit with the desktop and mobile views of your project. 
+The easiest way is to click on [this link](https://www.canva.com/design/DAEi4hwD8KM/YF6znvnVBGeR1p_KujaTwA/edit?utm_content=DAEi4hwD8KM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and edit with the desktop and mobile views of your project.
 
-1. Double-click the "computer" screen in the mockup linked above, and click "delete" on your keyboard to remove it. Do the same with the screenshot that is in mobile. Once completed, it should look like this: 
+1. Double-click the "computer" screen in the mockup linked above, and click "delete" on your keyboard to remove it. Do the same with the screenshot that is in mobile. Once completed, it should look like this:
 ![image](https://user-images.githubusercontent.com/18350557/213895660-11caf808-e929-4569-b404-92ff742bb3ff.png)
 
 2. On the left sidebar, click "uploads" and then "upload files" to upload your screenshots of your own project (get one for desktop view and one for mobile view)
 
 3. Drag those screenshots into the appropriate frames, replacing the cloud-and-sky background. It should snap right in.
 
-4. Finally, at the top right corner, click on the "Share" button and then "Download" -- set the file type to PNG, and then download. If you have Canva Premium, you can do this with a transparent background. If not, remove the background yourself using either a photo editor like Photopea, or an AI background remover (just google it, you can usually use them for free a few times). 
+4. Finally, at the top right corner, click on the "Share" button and then "Download" -- set the file type to PNG, and then download. If you have Canva Premium, you can do this with a transparent background. If not, remove the background yourself using either a photo editor like Photopea, or an AI background remover (just google it, you can usually use them for free a few times).
 
-5. These are the images you will want to put in the img/ folder of the project and name "mock1" "mock2" etc. etc. Hope this helps! 
+5. These are the images you will want to put in the img/ folder of the project and name "mock1" "mock2" etc. etc. Hope this helps!
 
 ---
 
@@ -213,4 +213,4 @@ The easiest way is to click on [this link](https://www.canva.com/design/DAEi4hwD
 
 [Dirk Kotze](https://dirkrkotze.com/)
 
-[Iuliia Sutygina](https://juliasut.github.io/portfolio/)
+[Iuliia Sutygina](https://juliasut.github.io/portfolio/) -->
