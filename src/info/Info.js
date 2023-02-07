@@ -30,7 +30,7 @@ export const info = {
     firstName: "Arif",
     lastName: "Jamal",
     initials: "Me", // the example uses first and last, but feel free to use three or more if you like.
-    position: "I'm a front-end developer",
+    position: "a front-end developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -58,11 +58,11 @@ export const info = {
         //     icon: 'fa fa-facebook',
         //     label: 'facebook'
         // },
-        // {
-        //     link: "https://instagram.com",
-        //     icon: 'fa fa-instagram',
-        //     label: 'instagram'
-        // },
+        {
+            link: "https://instagram.com",
+            icon: 'fa fa-instagram',
+            label: 'instagram'
+        },
         {
             link: "https://github.com/arifjamal2012",
             icon: "fa fa-github",
